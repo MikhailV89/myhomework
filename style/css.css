@@ -1,0 +1,57 @@
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+    background: aquamarine;
+}
+body{
+    background: orange;
+
+}
+ div{
+    outline: 2px solid black;
+
+ }
+ .inline{
+    font-size: 0;
+ }
+
+.in_t{
+    background: lime;
+    outline: 3px solid black;
+    width: 400px;
+    font-size: 30px;
+    display: inline-block; 
+    
+}
+.in_t2{
+    background: lime;
+    outline: 3px solid black; 
+    width: 800px;
+    font-size: 30px;
+    display: inline-block;
+   
+    
+   
+
+}
+.in_t3{
+    background: lime;
+    outline: 3px solid black; 
+    width: 400px;
+    font-size: 30px;
+    display: inline-block;
+    
+    
+    
+ 
+
+}
+.in_t4{
+    background: lime;
+    outline: 3px solid black; 
+    width: 200px;
+    font-size: 30px;
+    display: inline-block;
+    
+}

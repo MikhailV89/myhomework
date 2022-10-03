@@ -1,0 +1,52 @@
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: justify;
+    padding: 20px 0;
+    background: aquamarine;
+}
+body{
+    background: orange;
+}
+.t_cell{
+    padding: 20px 0;
+    background: lightgreen;
+    outline: 2px black;
+
+}
+ div{
+    outline: 2px solid black;
+ }
+
+.in_t{
+    background: lime;
+    outline: 3px solid black;
+    width: 600px;
+    display: table-cell;
+    
+}
+.in_t2{
+    background: lime;
+    outline: 3px solid black; 
+    width: 800px;
+    display: table-cell;
+    
+   
+
+}
+.in_t3{
+    background: lime;
+    outline: 3px solid black; 
+    width: 400px;
+    display: table-cell;
+    
+    
+ 
+
+}
+.in_t4{
+    background: lime;
+    outline: 3px solid black; 
+    width: 200px;
+    display: table-cell;
+}
